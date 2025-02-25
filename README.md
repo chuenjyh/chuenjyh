@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on 長榮大學
 - 📫 How to reach me 
-- 😄 Pronouns: 性別
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: 拍攝畢業感言影片
 
 <!---
